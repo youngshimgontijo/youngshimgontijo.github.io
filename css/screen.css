@@ -210,7 +210,7 @@ display: inline;
  /*Header */
     header{ height: 110px; background-image:url (../images/yg_banner_425.jpg);width:450px;}
     header a.logo {
-    	width: 150px; height:90px; left:10px; top: 0px; background: rgba(0,0,0,.65) url (../images/YG_logo.svg) no-repeat center center; }
+    	width: 150px; height:90px; left:10px; top: 0px; background: rgba(0,0,0,.65) url (../images/YG_lightlogo.svg) no-repeat center center; }
     
     header div.hero {width:100%; left: 0px;top: 46px; text-align: center;}
     header div.hero h1 {font-size: 1em; margin-bottom:10px;}
