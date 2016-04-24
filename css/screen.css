@@ -45,7 +45,8 @@ header a.logo span {display: none; }
 header div.hero { position: absolute; width 42%; top: 130px; left: 39%; }
 header div.hero h1 { line-height: 1em; margin 0 0 30px 0; color: #fff; }
 
-#share-buttons img {
+#share-buttons {
+ 
 width: 35px;
 padding: 5px;
 border: 0;
